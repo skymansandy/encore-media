@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "baseUrl": "https://cdn.jsdelivr.net/gh/skymansandy/encore-media@m1/",
+  "onboarding": {
+    "welcome": "onboarding/welcome.webp",
+    "ready": "onboarding/ready.webp"
+  },
+  "planner": {
+    "forkTemplate": "planner/fork-template.webp",
+    "forkOwn": "planner/fork-own.webp",
+    "forkSkip": "planner/fork-skip.webp"
+  },
+  "today": {
+    "noPlan": "today/hero.webp",
+    "rest": "today/rest.webp"
+  },
+  "summary": {
+    "hero": "summary/hero.webp"
+  },
+  "invite": {
+    "hero": "invite/hero.webp"
+  },
+  "groups": {
+    "body": {
+      "art": "groups/body.webp"
+    },
+    "chest": {
+      "art": "groups/chest.webp",
+      "before": "groups/chest-before.webp",
+      "after": "groups/chest-after.webp"
+    },
+    "back": {
+      "art": "groups/back.webp",
+      "before": "groups/back-before.webp",
+      "after": "groups/back-after.webp"
+    },
+    "shoulders": {
+      "art": "groups/shoulders.webp",
+      "before": "groups/shoulders-before.webp",
+      "after": "groups/shoulders-after.webp"
+    },
+    "arms": {
+      "art": "groups/arms.webp",
+      "before": "groups/arms-before.webp",
+      "after": "groups/arms-after.webp"
+    },
+    "legs": {
+      "art": "groups/legs.webp",
+      "before": "groups/legs-before.webp",
+      "after": "groups/legs-after.webp"
+    },
+    "core": {
+      "art": "groups/core.webp",
+      "before": "groups/core-before.webp",
+      "after": "groups/core-after.webp"
+    }
+  },
+  "muscles": "muscles/{id}.webp"
+}
