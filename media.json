@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "baseUrl": "https://cdn.jsdelivr.net/gh/skymansandy/encore-media@m1/",
+  "baseUrl": "https://cdn.jsdelivr.net/gh/skymansandy/encore-media@m2/",
   "onboarding": {
     "welcome": "onboarding/welcome.webp",
     "ready": "onboarding/ready.webp"
